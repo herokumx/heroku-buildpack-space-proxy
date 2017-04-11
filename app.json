@@ -19,7 +19,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "Private-S"
+      "size": "Private-L"
     }
   },
   "image": "heroku/cedar-14",
